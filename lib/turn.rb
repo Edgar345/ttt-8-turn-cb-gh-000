@@ -3,7 +3,7 @@ def turn board
   # convert input to index
   # if index is valid
   #   make the move for input
-  # else 
+  # else
   #   ask for input again until you get a valid input
   # end
   puts "Please enter 1-9:"
