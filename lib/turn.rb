@@ -8,7 +8,7 @@ def turn board
   # end
   puts "Please enter 1-9:"
   input = (gets.to_i) - 1
-  if valid_move? board, input 
+  if valid_move? board, input
     move(board, input)
   end
 end
