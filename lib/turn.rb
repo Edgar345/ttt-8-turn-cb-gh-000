@@ -1,4 +1,5 @@
 def turn board
+  # we are using recursion here
   # get input
   # convert input to index
   # if index is valid
