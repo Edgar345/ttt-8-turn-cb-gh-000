@@ -1,4 +1,4 @@
-def turn 
+def turn
 end
 
 def display_board board
