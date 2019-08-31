@@ -27,6 +27,7 @@ def position_taken? board, index
 end
 
 def move board, index, token = 'X'
+  #do we need to add validations here of in the bin file
   board[index] = token
 end
 
