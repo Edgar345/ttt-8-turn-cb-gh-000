@@ -1,13 +1,11 @@
 def turn board
-  =begin
-  get input
-  convert input to index
-  if index is valid
-    make the move for input
-  else
-    ask for input again until you get a valid input
-  end
-  =end
+  # get input
+  # convert input to index
+  # if index is valid
+  #   make the move for input
+  # else 
+  #   ask for input again until you get a valid input
+  # end
   puts "Please enter 1-9:"
 end
 
