@@ -21,3 +21,7 @@ end
 def move board, index, token = 'X'
 
 end
+
+def input_to_index input
+  input.to_i
+end
