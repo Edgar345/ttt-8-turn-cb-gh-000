@@ -10,6 +10,7 @@ def turn board
   input = input_to_index (gets.to_i)
   if valid_move? board, input
     move(board, input)
+    display_board board
   else
     turn board
   end
